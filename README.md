@@ -7,6 +7,9 @@ $ git clone https://github.com/thiagomsy/vue_conectalead.git
 
 ## ⚙ Inicializar o Projeto
 ```
+cd vue_conectalead
+```
+```
 npm install
 ```
 
