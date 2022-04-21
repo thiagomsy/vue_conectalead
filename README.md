@@ -1,8 +1,8 @@
 # 🔗 ConectaLead
 
 ## ⚙ Técnologias usadas
-  ✔️ Node v16.14.2
-  ✔️ Vue v2.6.14
+    ✔️ Node v16.14.2
+    ✔️ Vue v2.6.14
 
 ## 👥 Clonar o repositório
 ```
